@@ -1,0 +1,20 @@
+Titanic Dataset
+
+Problema:
+Aceasta este o problemă de clasificare binară, unde scopul este să prezicem dacă un pasager a supraviețuit (Survived = 1) sau nu (Survived = 0) în urma scufundării navei Titanic, pe baza caracteristicilor demografice și informațiilor despre călătorie.
+
+Coloane și descriere:
+
+1.  PassengerId – ID‑ul unic al pasagerului
+2.  Survived – variabila țintă (0 = nu a supraviețuit, 1 = a supraviețuit)
+3.  Pclass – clasa biletului (1 = clasa I, 2 = clasa II, 3 = clasa III)
+4.  Name – numele complet al pasagerului
+5.  Sex – sexul pasagerului
+6.  Age – vârsta pasagerului
+7.  SibSp – numărul de frați/surori sau soți/soții la bord
+8.  Parch – numărul de părinți/copii la bord
+9.  Ticket – numărul biletului
+10. Fare – costul biletului
+11. Cabin – cabina pasagerului (dacă este disponibilă)
+12. Embarked – portul de îmbarcare (C = Cherbourg, Q = Queenstown, S = Southampton)
+
